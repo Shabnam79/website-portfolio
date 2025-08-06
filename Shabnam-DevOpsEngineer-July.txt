@@ -1,0 +1,79 @@
+Shabnam
+Chandigarh | shabnambeas5@gmail.com | 7901742124 |
+https://www.linkedin.com/in/shabnam-kumari-5702b2219/ | https://github.com/Shabnam79
+
+Professional Summary
+DevOps Engineer with over 3.7 years of hands-on experience delivering cloud-native, secure, and scalable
+solutions across AWS and Azure. Proven expertise in building robust CI/CD pipelines, implementing infrastructure
+as code using Terraform and Ansible, and enabling DevSecOps practices using tools like SonarQube, Trivy, and
+Checkov. Skilled in Kubernetes, Docker, Jenkins, GitOps, and cross-functional collaboration in Agile environments.
+
+Technologies and Skills
+Cloud Providers: AWS (EC2, S3, IAM, VPC), Azure (Azure DevOps), GCP (Basic knowledge)
+Infrastructure and Configuration Management : Terraform, CloudFormation, Ansible
+CI/CD Tools : Jenkins, GitHub Actions, Azure Pipelines, AWS CodeBuild, Harness, GitLab Cl
+Version Control: : Git, GitHub, Bitbucket, GitLab, Visual Studio Code
+Security Tools : Trivy, Checkov, SonarQube, OWASP ZAP, Dependency-Check, JFrog
+Scripting Languages : Python, Bash, Powershell
+Monitoring & Logging: Prometheus, Grafana, Azure Monitor, CloudWatch
+Containerization & Orchestration: Docker, Kubernetes
+
+Professional Experience
+Jan 2022 – Present
+DevOps Engineer, Testingxperts Pvt Ltd – Chandigarh,
+• Designed and deployed secure, scalable CI/CD pipelines using Jenkins and ArgoCD for Java and Python
+applications.
+• Automated infrastructure provisioning with Terraform and Azure DevOps, reducing provisioning time by 0%.
+• Integrated SAST, SCA, DAST, and container security tools (SonarQube, OWASP, Trivy, Checkov) into pipelines,
+reducing vulnerabilities by 70%.
+• Deployed containerized apps on Kubernetes (EKS/AKS) with Helm; implemented blue-green deployments and
+autoscaling.
+• Enhanced observability with Azure Monitor, Prometheus, and Grafana; improved system reliability and
+response time.
+• Collaborated in Agile teams to deliver DevOps capabilities across the SDLC.
+
+Projects
+Aug 2024 - Present
+SRA ,Testingxperts Pvt Ltd – Chandigarh
+• Enhanced Infrastructure-as-Code (IaC) templates using Terraform and implemented via Azure DevOps,
+decreasing cloud provisioning timelines by 0% and enhancing configuration compliance across 20+ applications.
+• Implemented Checkov to check the syntax of resources to be deployed on Azure.
+• Executed Checkov for pre-deployment scanning, catching 90% of laC misconfigurations.
+• Amplified real-time monitoring and incident response using Azure Monitor and custom dashboards.
+• Collaborated in Agile teams, participating in daily stand-ups, sprint planning, and cross-functional reviews to
+ensure timely DevOps deliverables across SDLC.
+• Tools Used: Azure Repos, Terraform, Azure App Service, Azure App Insights
+TX-DevSecOps, Testingxperts Pvt Ltd – Chandigarh
+Jan 2023 - July 2024
+• Delivered and implemented end-to-end CI/CD pipelines for a Java-based application using Jenkins.
+• Accelerated SAST (SonarQube), SCA (OWASP Dependency-Check), and DAST (OWASP ZAP) into the
+
+pipeline.
+• Launched Trivy and Checkov to scan Docker images and Kubernetes manifests before deployment.
+• Deployed containerized apps to Kubernetes namespaces (staging & production) using Helm.
+• Reduced critical vulnerabilities by 70% and improved deployment lead time from 60 minutes to 15 minutes.
+• Elevated proactive monitoring and alerting with Prometheus and Grafana for Jenkins and pod health.
+• Tools Used: Jenkins, SonarQube, Dependency Check, Trviy, Checkov, Grafana and Prometheus, Kubernetes, ZAP
+
+ASTM, Testingxperts Pvt Ltd – Chandigarh
+Jan 2022 - Dec 2022
+• Engineered a production-grade VPC spanning 2 Availability Zones, deploying 4 subnets (2 public, 2 private)
+to achieve 99.99% high availability and zone redundancy.
+• Configured an Auto Scaling Group with a target of 4 EC2 instances and attached an Application Load
+Balancer, achieving a 30% reduction in response time under peak load by balancing traffic efficiently.
+• Deployed 2 NAT Gateways (1 per AZ) to ensure secure outbound internet connectivity for private instances,
+improving failover capability and reducing downtime risks by 50%.
+• Tools Used: AWS Ec2, Auto Scaling Groups, VPC, NAT Gateway, Subnet, Bastion Host
+
+Education
+Rayat Bahra University, Mohali, B.Tech in Computer Science
+• CGPA: 8.4/10.0
+
+Aug 2018 – July 2022
+
+Certifications
+AZ-900(Microsoft Azure Fundamentals)
+• Gained foundational knowledge of cloud concepts, Azure services, pricing models, and security principles.
+• Microsoft Azure Certificate
+
+
